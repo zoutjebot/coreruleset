@@ -7,7 +7,7 @@ For more information see our [wiki](https://github.com/coreruleset/coreruleset/w
 
 The OWASP CRS officially supports the following versions with security patches:
 
-- The **two latest point releases** on the current development line.
+- The **two latest minor releases** on the current development line.
 - The **CRS v4.25.x LTS** release line, which receives security fixes until **Q3 2027**.
 
 We are happy to receive and merge PR's that address security issues in older versions of the project, but the team itself may choose not to fix these.
